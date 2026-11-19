@@ -1,0 +1,7 @@
+dist/
+_output/
+.jupyterlite.doit.db
+*.doit.db
+.ipynb_checkpoints
+__pycache__/
+.DS_Store
